@@ -1,5 +1,3 @@
-# My first blog post
-
 ---
 title: "First Blog Post"
 date: 2022-02-24
